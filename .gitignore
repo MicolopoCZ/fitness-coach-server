@@ -4512,3 +4512,5 @@ build/index.js
 build/routes/user.js
 build/controllers/user.js
 build/models/user.js
+build/config/db.js
+build/models/index.js
